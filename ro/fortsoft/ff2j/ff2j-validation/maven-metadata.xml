@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>ro.fortsoft.ff2j</groupId>
-  <artifactId>ff2j</artifactId>
+  <artifactId>ff2j-validation</artifactId>
   <versioning>
     <versions>
       <version>0.7-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150623034124</lastUpdated>
+    <lastUpdated>20150623034134</lastUpdated>
   </versioning>
 </metadata>
