@@ -10,6 +10,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="ff2j" />
+    <orderEntry type="library" name="Maven: ro.fortsoft.ff2j:ff2j:0.7-SNAPSHOT" level="project" />
   </component>
 </module>

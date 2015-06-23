@@ -68,7 +68,7 @@ public class ConverterRegistry {
 
     /**
      * Unregister a registerd converter.
-     * @param converter 
+     * @param converter
      */
     public void unregister(Converter<?> converter) {
     	if (converter != null) {

@@ -9,7 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="ff2j" />
+    <orderEntry type="library" name="Maven: ro.fortsoft.ff2j:ff2j:0.7-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Maven: javax.validation:validation-api:1.0.0.GA" level="project" />
     <orderEntry type="library" name="Maven: net.sf.oval:oval:1.82" level="project" />
   </component>
