@@ -27,7 +27,6 @@ public interface Converter<T> {
      * @param text
      *            the value to decode
      * @return an object built from the given value
-     * @throws ConvertionException if conversion cannot be performed successfully	
      */
     public T decode(String text);
 	

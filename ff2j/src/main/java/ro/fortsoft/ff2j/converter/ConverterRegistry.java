@@ -47,6 +47,8 @@ public class ConverterRegistry {
 
     /**
      * Register a converter.
+     * @param converter
+     *
      */
     public void register(Converter<?> converter) {
         if (converter != null) {
@@ -58,6 +60,7 @@ public class ConverterRegistry {
 
     /**
      * Lookup a converter for this target class.
+     * @param target
      */
     public Converter<?> lookup(Class<?> target) {
         return converters.get(target);
@@ -65,6 +68,7 @@ public class ConverterRegistry {
 
     /**
      * Unregister a registerd converter.
+     * @param converter 
      */
     public void unregister(Converter<?> converter) {
     	if (converter != null) {
